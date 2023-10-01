@@ -23,9 +23,9 @@ Blockchain là một công nghệ lưu trữ và truyền tải thông tin một
     - **Asymmetric key Cryptography** Đây được gọi là mật mã chìa khóa công khai. Nó nằm ở phía ngược lại của mật mã chìa khóa bí mật, bởi vì quá trình mã hóa và giải mã sử dụng các chìa khóa khác nhau. Chìa khóa công khai được sử dụng trong quá trình mã hóa và chìa khóa riêng tư được sử dụng trong quá trình giải mã. Nó chỉ có thể chuyển một lượng nhỏ dữ liệu, nhưng đảm bảo tính xác thực và tính bảo mật.
 - **Distributed Ledger** (sổ cái phân tán): Điều này là cấu trúc của blockchain làm cho nó độc đáo, trong đó mạng P2P (Peer-to-Peer) xử lý toàn bộ công nghệ blockchain. Mạng P2P này chia sẻ sổ cái phân phối, làm cho nó trở nên phi tập trung. Dữ liệu trên hệ thống sổ cái được lưu trữ trong một khối và được nhóm lại bởi các nút (nodes). Khi các khối dữ liệu được liên kết với nhau và nhờ vào các thuật toán băm mật mã, nó đạt được tính bảo mật tăng cường. Tính bảo mật nâng cao này và sổ cái phân phối giúp giới thiệu tính không thể biến đổi vào hệ thống.
 
-<p style="text-align:center">
+<p align="center">
     <img src="images/distributedLedger.png" alt="Distributed Ledger">
-</p>
+<p align="center">
 
 
 
