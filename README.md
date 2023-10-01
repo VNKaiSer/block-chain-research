@@ -15,6 +15,7 @@ Date: 2019-11-01 00:00:00
     <img src="images/whatIsBlockchain.png" alt="Đặc điểm của blockchain">
 </p> 
 Blockchain là một công nghệ lưu trữ và truyền tải thông tin một cách công khai, dựa trên một mạng ngang hàng (peer-to-peer network). Các thông tin được lưu trữ trong blockchain được mã hóa và phân tán trên nhiều máy tính khác nhau, không có một trung tâm nào kiểm soát. Điều này giúp cho blockchain trở nên an toàn hơn, bảo mật hơn và khó bị tấn công hơn so với các hệ thống thông tin truyền thống.
+
 ## 3. Đặc điểm của blockchain
 <p align="center">
     <img src="images/featuresOfBlockchain.png" alt="Đặc điểm của blockchain">
