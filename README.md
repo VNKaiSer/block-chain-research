@@ -32,10 +32,21 @@ Blockchain là một công nghệ lưu trữ và truyền tải thông tin một
 
 <p align="center">
     <img src="images/distributedLedger.png" alt="Distributed Ledger">
+</p>
+
+- **Consensus Algorithms** (Cơ chế đồng thuận) 
+    - **Proof of Work (PoW)**: Proof of Work là một thuật toán đồng thuận được sử dụng trong các mạng blockchain. Nó là một phương pháp để ngăn chặn các cuộc tấn công DDoS (tấn công phủ bóng) và các cuộc tấn công thay thế dữ liệu bằng cách yêu cầu người dùng của blockchain thực hiện một công việc nhất định. Proof of Work (PoW) được sử dụng trong Bitcoin, Ethereum và nhiều loại tiền mã hóa khác.
+
+    - **Proof of Stake (PoS)**: Proof of Stake (PoS) là một thuật toán đồng thuận được sử dụng trong các mạng blockchain. Nó là một phương pháp để ngăn chặn các cuộc tấn công DDoS (tấn công phủ bóng) và các cuộc tấn công thay thế dữ liệu bằng cách yêu cầu người dùng của blockchain thực hiện một công việc nhất định. Proof of Stake (PoS) được sử dụng trong Bitcoin, Ethereum và nhiều loại tiền mã hóa khác.
+
+    - **Delegated Proof of Stake (DPoS)**: Delegated Proof of Stake (DPoS) là một thuật toán đồng thuận được sử dụng trong các mạng blockchain. Nó là một phương pháp để ngăn chặn các cuộc tấn công DDoS (tấn công phủ bóng) và các cuộc tấn công thay thế dữ liệu bằng cách yêu cầu người dùng của blockchain thực hiện một công việc nhất định. Proof of Stake (PoS) được sử dụng trong Bitcoin, Ethereum và nhiều loại tiền mã hóa khác.
+
+    - **Proof of Authority (Poa)**: Proof of Authority (PoA) là một thuật toán đồng thuận được sử dụng trong các mạng blockchain. Nó là một phương pháp để ngăn chặn các cuộc tấn công DDoS (tấn công phủ bóng) và các cuộc tấn công thay thế dữ liệu bằng cách yêu cầu người dùng của blockchain thực hiện một công việc nhất định. Proof of Stake (PoS) được sử dụng trong Bitcoin, Ethereum và nhiều loại tiền mã hóa khác.
+
 <p align="center">
+    <img src="images/ConsensusAlgorithms.png" alt="Distributed Ledger">
+</p>
+More information: [Consensus Algorithms](https://www.gemalto.com/govt/inspired/cybersecurity/blockchain-consensus-algorithms)
 
 
-
-
-
-
+- **Faster** (Nhanh chóng): Bất cứ khi nào chúng ta nói về các kỹ thuật giao dịch truyền thống, chúng ta nhớ rằng hệ thống ngân hàng truyền thống khá chậm và kém an toàn. Mặt khác, khi chúng ta nhìn vào hệ thống blockchain, chúng ta nhận được các giao dịch nhanh hơn, trơn tru và an toàn hơn do thuật toán đồng thuận. Vì vậy, chúng ta có thể nói rằng so với hệ thống ngân hàng truyền thống, blockchain quá nhanh.
